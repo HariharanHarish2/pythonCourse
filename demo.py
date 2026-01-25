@@ -1,0 +1,6 @@
+name = input()
+mark =int (input())
+Department=input()
+print("my name is:",name)
+print("MY mark is:",mark/10,"/10")
+print("my department is:",Department)
