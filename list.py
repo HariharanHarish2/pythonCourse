@@ -1,0 +1,9 @@
+name=[1,2,3,4,5]
+print(name)
+name.append(6)
+print(name)
+name.remove(4)
+print(name)
+name[2]=2
+print(name)
+print(name[0])
