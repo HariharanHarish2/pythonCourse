@@ -5,4 +5,4 @@ def add(prices,discount_items):
     return Shopping_item
 Dress_items=[1000,2000,300,450]
 bill_section=add(Dress_items,10)
-print(bill_section)git add .
+print(bill_section)
