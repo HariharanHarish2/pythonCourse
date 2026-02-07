@@ -1,4 +1,4 @@
-score=int(input())
+score=int(input("Number"))
 name=input()
 department=input()
 exam_date=score/10
