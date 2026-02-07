@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
     "git.ignoreLimitWarning": true
+=======
+    "terminal.integrated.suggest.insertTrailingSpace": false
+>>>>>>> 656de76eefda5e1b09a5d42370b2ac283cbf19da
 }
