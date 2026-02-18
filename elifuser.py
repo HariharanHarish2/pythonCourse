@@ -1,0 +1,9 @@
+a=int(input())
+b=int(input())
+c=input("add/multi/divi:")
+if(c=="add"):
+    print(a+b)
+elif(c=="multi"):
+    print(a*b)
+elif(c=="divi"):
+    print(a/b)

@@ -1,0 +1,5 @@
+f = open("hari.txt")
+txt = f.read()
+print(type(txt))
+print(txt)
+f.close()

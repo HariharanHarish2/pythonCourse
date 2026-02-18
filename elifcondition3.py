@@ -1,0 +1,13 @@
+a=int(input("A:"))
+b=int(input("B:"))
+user=input("Add/sub/multi/div:")
+if(user=="Add"):
+    print(a+b)
+elif(user=="sub"):
+    print(a-b)
+elif(user=="multi"):
+    print(a*b)
+elif(user=="div"):
+    print(a/b)
+else:
+    print("invalid")
